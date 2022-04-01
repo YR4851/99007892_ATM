@@ -36,6 +36,6 @@ This project is about making a Library class in which we can display the books w
 
 
 # SWOT:
-![SWOT analysis](https://raw.githubusercontent.com/YR4851/99007892_ATM/main/6_ImagesAndVideos/Untitled%20(SWOT%20Analysis).png?token=GHSAT0AAAAAABTDK3LF7ZAJLXXM4D4HI6XCYSGTA4A)
+![SWOT analysis](https://raw.githubusercontent.com/YR4851/99007892_ATM/main/6_ImagesAndVideos/Untitled%20(SWOT%20Analysis).png?token=GHSAT0AAAAAABTDK3LFZEAHO4JYIZSSJG3CYSGUAUA)
 # 5W1H:
-![5W1H](https://raw.githubusercontent.com/YR4851/99007892_ATM/main/6_ImagesAndVideos/5W%261H.png?token=GHSAT0AAAAAABTDK3LF2AULWKCBU5ARZYJWYSGTAZA)
+![5W1H](https://raw.githubusercontent.com/YR4851/99007892_ATM/main/6_ImagesAndVideos/5W%261H.png?token=GHSAT0AAAAAABTDK3LFBSUSN3BPYVFA4AQCYSGUAKQ)
