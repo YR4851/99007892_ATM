@@ -1,5 +1,5 @@
 # ARCHITECTURAL DIAGRAM:
-![AD](https://raw.githubusercontent.com/YR4851/99007892_ATM/main/6_ImagesAndVideos/architectural%20diagram.png?token=GHSAT0AAAAAABTDK3LFNXQ3XBWI6GU4MK54YSGYGWQ)
+![AD]()
 
 # UML DIIAGRAM:
 ![UML](https://raw.githubusercontent.com/YR4851/99007892_ATM/main/6_ImagesAndVideos/UML.jpeg?token=GHSAT0AAAAAABTDK3LE6AH35LZDYALDS27OYSGYG3Q)
