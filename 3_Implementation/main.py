@@ -1,4 +1,4 @@
-@pylint score (5.12/10)
+pylint score (5.12/10)
 
 import re
 
