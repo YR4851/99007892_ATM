@@ -1,3 +1,5 @@
+@pylint score (5.12/10)
+
 import re
 
 # Creating variables for ATM system
