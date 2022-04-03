@@ -1,12 +1,12 @@
 ## High Level test Plan
 
 
-|Test ID| Description| Exp I/P| Exp O/P| Actual Output| Type of Test|
+|Test ID| Description| Exp I/P| Exp O/P| Actual Output|status|
 |------|------|------|------|-------|------|
-|H01| Check if the code is working as expected, by considering the test cases| Valid input| Correct output| Correct output| ✅ |
-|H02| Check if the system handles boundary conditions| Invalid input|Termination| Terminated| ✅|
-|HO3| Check for the flow control Jumping| For valid input| Jumping correctly| Jumping correct| ✅ |
-|H04| Check for the flow control jumping| For invalid| Terminating| Terminate| ✅ |
+|H01| Check if the code is working as expected, by considering the test cases| Valid input| Correct output| Correct output|✅|
+|H02| Check if the system handles boundary conditions| Invalid input|Termination| Terminated|✅|
+|HO3| Check for the flow control Jumping| For valid input| Jumping correctly| Jumping correct|✅|
+|H04| Check for the flow control jumping| For invalid| Terminating| Terminate|✅|
 
 ## Low level test Plan
 
