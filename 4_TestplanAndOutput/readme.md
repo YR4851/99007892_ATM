@@ -3,10 +3,10 @@
 
 |Test ID| Description| Exp I/P| Exp O/P| Actual Output| Type of Test|
 |------|------|------|------|-------|------|
-|H01| Check if the code is working as expected, by considering the test cases| Valid input| Correct output| Correct output| pass |
-|H02| Check if the system handles boundary conditions| Invalid input|Termination| Terminated| pass|
-|HO3| Check for the flow control Jumping| For valid input| Jumping correctly| Jumping correct| pass |
-|H04| Check for the flow control jumping| For invalid| Terminating| Terminate| pass |
+|H01| Check if the code is working as expected, by considering the test cases| Valid input| Correct output| Correct output| ✅ |
+|H02| Check if the system handles boundary conditions| Invalid input|Termination| Terminated| ✅|
+|HO3| Check for the flow control Jumping| For valid input| Jumping correctly| Jumping correct| p✅ |
+|H04| Check for the flow control jumping| For invalid| Terminating| Terminate| ✅ |
 
 ## Low level test Plan
 
